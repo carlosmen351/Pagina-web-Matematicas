@@ -1,0 +1,16 @@
+header {
+  width: 90%;
+  height: 25vh;
+  background-color: $color-principal;
+  margin: 10px auto;
+  text-align: center;
+  border-radius: 25px;
+  & img {
+    height: 65%;
+    margin-top: 10px;
+  }
+  & h1 {
+    color: $color-letras;
+    font-size: 5rem;
+  }
+}
